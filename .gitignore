@@ -11,9 +11,7 @@ myenv/
 # Environment variables
 .env
 
-# Logs and databases
-*.log
-*.sqlite3
+
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
@@ -22,9 +20,7 @@ myenv/
 .DS_Store
 Thumbs.db
 
-# MySQL dumps or data backups
-*.sql
-*.sql.gz
+
 
 # Environment variables (DB credentials)
 .env
